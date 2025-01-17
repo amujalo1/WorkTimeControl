@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hide (1).png</file>
+        <file>icons8-database-64.png</file>
+        <file>icons8-database-restore-64.png</file>
+        <file>icons8-database-administrator-64.png</file>
+        <file>icons8-delete-database-64.png</file>
+        <file>icons8-connect-64 (1).png</file>
+        <file>icons8-sort-48 (1).png</file>
+        <file>icons8-sort-48.png</file>
+        <file>icons8-search-in-list-48.png</file>
+        <file>icons8-test-account-48.png</file>
+        <file>logout.png</file>
+        <file>icons8-more-info-24.png</file>
+        <file>icons8-menu-vertical-100.png</file>
+        <file>satnica.xml</file>
+        <file>user.png</file>
+        <file>circle-16.png</file>
+        <file>circleGreen-16.png</file>
+    </qresource>
+</RCC>
